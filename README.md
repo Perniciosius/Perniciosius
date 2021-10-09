@@ -1,6 +1,6 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/45752299/136669414-dc592a7e-eef5-45d9-9e1f-a162c74c4986.png)
 
-I'm Aman Sinha. A passionate Full Stack Developer. I like building apps using Flutter.
+Passionate Full Stack Developer. I like building apps using Flutter and develop backend using Go. Love using new technologies.
 
 - 🌱 I’m currently learning Jetpack Compose
 - 📫 Find me at [<img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width = "15px" height = "15px">](https://www.linkedin.com/in/aman-sinha-b242531b8)
