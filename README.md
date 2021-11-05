@@ -15,7 +15,6 @@ Passionate Full Stack Developer. I like building apps using Flutter and develop 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Fiber-informational?style=for-the-badge&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Actix-informational?style=for-the-badge&logo=rust&logoColor=white&color=2bbc8a)
