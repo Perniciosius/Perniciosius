@@ -35,7 +35,7 @@ Passionate Full Stack Developer. I like building apps using Flutter and develop 
 <img src = "https://github-readme-stats.vercel.app/api?username=Perniciosius&count_private=true&show_icons=true&theme=algolia&border_radius=15"></img>
 </a>
 <a href = "https://github.com/Perniciosius">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Perniciosius&langs_count=8&layout=compact&theme=algolia&border_radius=15"></img>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Perniciosius&langs_count=8&layout=compact&theme=algolia&border_radius=15&hide=Javascript, Jupyter Notebook"></img>
 </a>
 
 
