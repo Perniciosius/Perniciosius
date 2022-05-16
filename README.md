@@ -47,7 +47,7 @@ Passionate Full Stack Developer. I like building apps using Flutter and develop 
 <a href = "https://github.com/Perniciosius/Todo_Jetpack_Compose">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Perniciosius&repo=Todo_Jetpack_Compose&theme=algolia&border_radius=15"></img>
 </a>
-<a href = "https://github.com/Perniciosius/Todo">
+<a href = "https://github.com/Perniciosius/dotslash">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Perniciosius&repo=Todo&theme=algolia&border_radius=15"></img>
 </a>
 <a href = "https://github.com/Perniciosius/weather">
